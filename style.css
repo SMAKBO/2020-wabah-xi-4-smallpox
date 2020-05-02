@@ -76,11 +76,12 @@ margin-left : 200px;
 margin-bottom : 10px;
 color : #666;
 background : #fff;
-}
 img src="logo.jpeg" {
 width=250;
 rasio=80%;
+	}
 }
+
 #content h2 {
 margin : 0 0 0 0;
 font : 130% verdana, "Trebuchet MS", arial, tahoma, sans-serif;
