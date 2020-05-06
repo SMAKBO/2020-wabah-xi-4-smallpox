@@ -175,8 +175,18 @@ font-size : 80%;
 color: #aaa;
 background : #fff;
 } 
-.post.resources{ 
-background : no-repeat left center;
+.post .date { 
+background : url(img/clock.gif) no-repeat left center;
+padding-left : 15px;
+margin : 0 15px 0 5px;
+} 
+.post .comments { 
+background : url(img/comment.gif) no-repeat left center;
+padding-left : 15px;
+margin : 0 15px 0 5px;
+} 
+.post .readmore { 
+background : url(img/document.gif) no-repeat left center;
 padding-left : 15px;
 margin : 0 15px 0 5px;
 } 
