@@ -175,18 +175,8 @@ font-size : 80%;
 color: #aaa;
 background : #fff;
 } 
-.post .date { 
-background : url("clock.gif") no-repeat left center;
-padding-left : 15px;
-margin : 0 15px 0 5px;
-} 
-.post .comments { 
-background : url("comment.gif") no-repeat left center;
-padding-left : 15px;
-margin : 0 15px 0 5px;
-} 
-.post .readmore { 
-background : url("document.gif") no-repeat left center;
+.resources{ 
+background : no-repeat left center;
 padding-left : 15px;
 margin : 0 15px 0 5px;
 } 
